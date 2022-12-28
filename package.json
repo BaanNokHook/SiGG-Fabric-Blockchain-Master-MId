@@ -1,0 +1,27 @@
+{
+  "name": "ais.cumulus.webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "commonlog-kb": "^1.6.12",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.7",
+    "mstring": "^0.1.2",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "shelljs": "^0.8.3",
+    "validatorjs": "^3.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
